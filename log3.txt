@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link href='https://cdn.boxicons.com/fonts/basic/boxicons.min.css' rel='stylesheet'>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+  
+    <title>login</title>
+    <style>
+
+        /* عام للألوان والخطوط الأساسية */
+body {
+    font-family: 'Arimo', 'Roboto', 'Rubik', sans-serif;
+    background-color: #f0f2f5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* تغليف الوحدة */
+.wrapper {
+    display: flex;
+    max-width: 900px;
+    width: 50%;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #fff;
+}
+
+/* قسم تسجيل الدخول */
+.form-box.login {
+    flex: 1;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* عنوان الصفحة */
+h2 {
+    margin-bottom: 20px;
+    color: #333;
+    font-weight: 700;
+}
+
+/* عناصر النموذج */
+form {
+    width: 100%;
+}
+
+/* حاوية الإدخال */
+.input-box {
+    position: relative;
+    margin-bottom: 25px;
+    
+}
+
+/* حقول الإدخال */
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 12px 40px 12px 10px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    outline: none;
+    font-size: 16px;
+    transition: border-color 0.3s;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus {
+    border-color: #007bff;
+}
+
+/* تسميات الإدخال */
+label {
+    position: absolute;
+    top: -8px;
+    left: 15px;
+    background-color: #fff;
+    padding: 0 5px;
+    font-size: 14px;
+    color: #555;
+    pointer-events: none;
+}
+
+/* أيقونات بكس */
+.bx,
+.bxr {
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    transform: translateY(-50%);
+    font-size: 20px;
+    color: #999;
+}
+
+/* زر تسجيل الدخول */
+.btn {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 25px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+/* روابط تسجيل الحساب */
+.logreg-link p {
+    margin-top: 15px;
+    font-size: 14px;
+    color: #555;
+}
+
+.register-link {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.register-link:hover {
+    text-decoration: underline;
+}
+
+/* نص الترحيب والمعلومات */
+.info-text.login{
+    background-color: #007bff;
+    color: #fff;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: right;
+}
+
+
+.info-text h2 {
+    margin-bottom: 15px;
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.info-text p {
+    font-size: 16px;
+    text-align: center;
+    line-height: 1.5;
+}
+
+/* قسمت مربوط به استایل در قسمت سمت راست (در کد قبلی موجود است) */
+
+.info-text {
+    /* تغییرات زیر در استایل موجود اعمال می‌شود */
+    position: relative;
+    /* بقیه استایل‌ها ... */
+    /* padding: 40px; */
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+/* به عنصر خط، به عنوان نمونه، class جدید می‌دهیم */
+.line-diagonal {
+    position: absolute;
+    top: 0;
+    right:0;
+    width: 100%;
+    height: 100%;
+    /* رسم خط قطری */
+    background: linear-gradient(126deg, transparent 50%, #fff 50%);
+    z-index: 0;
+}
+
+.text-content {
+    position: relative;
+    background-color: #007bff; /* رنگ پس‌زمینه متن */
+    margin-top: 0;
+    border-radius: 8px;
+    color: #fff;
+    z-index: 1;
+    max-width: 80%;
+    text-align: center;
+}
+
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="form-box login">
+
+            
+            <h2>login</h2>
+            <form action="#">
+                
+                <div class="input-box">
+                    <input type="text" required>
+                    <label >username</label>
+                    <i class='bx  bxs-user'></i> 
+                </div>
+                <div class="input-box">
+                    <input type="password" required>
+                                        <label >password</label>
+                                       <i class='bxr  bxs-lock'  ></i>  
+                </div>
+                <button type="submit" class="btn">login</button>
+                <div class="logreg-link">
+                 <p>   dont have an account?<a href="up.html" class="register-link">sign up</a></p>
+                </div>
+            </form>
+            
+            
+           
+        </div>
+       <div class="info-text login">
+    <div class="line-diagonal"></div>
+    <div class="text-content">
+        <h2>welcome back!</h2>
+        <p>lorem ipsum,dolot sit omrt</p>
+    </div>
+</div>
+    
+    
+</body>
+</html>

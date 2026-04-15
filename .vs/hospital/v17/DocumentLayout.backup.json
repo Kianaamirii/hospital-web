@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\res\\res1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:res\\res1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\views\\share\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:views\\share\\layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\views\\home\\visit_management.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:views\\home\\visit_management.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\res\\res1.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:res\\res1.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\assets\\css\\ft.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:assets\\css\\ft.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\res\\res1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:res\\res1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\views\\home\\recept.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:views\\home\\recept.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|c:\\users\\alireza\\desktop\\clinik\\webapp\\hospital\\assets\\js\\visit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:assets\\js\\visit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\assets\\js\\m2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:assets\\js\\m2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\assets\\build\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:assets\\build\\js\\login.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\assets\\bower_components\\bootstrap\\js\\visit_type.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:assets\\bower_components\\bootstrap\\js\\visit_type.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\views\\home\\visit_type.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:views\\home\\visit_type.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\assets\\js\\ft.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:assets\\js\\ft.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\res\\res1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:res\\res1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C0ADA1DC-2269-4E1C-A02C-CDC9710FAB15}|hospital.csproj|solutionrelative:login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\Views\\share\\layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\share\\layout.cshtml",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\Views\\share\\layout.cshtml",
+              "RelativeToolTip": "Views\\share\\layout.cshtml",
+              "ViewState": "AgIAAAsCAAAAAAAAAAAYwBkCAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T11:03:15.933Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "visit_management.cshtml",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\Views\\Home\\visit_management.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\visit_management.cshtml",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\Views\\Home\\visit_management.cshtml",
+              "RelativeToolTip": "Views\\Home\\visit_management.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T12:54:28.448Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\Views\\Home\\login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\login.cshtml",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\Views\\Home\\login.cshtml",
+              "RelativeToolTip": "Views\\Home\\login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-06T13:59:09.149Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "login.js",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\assets\\build\\js\\login.js",
+              "RelativeDocumentMoniker": "assets\\build\\js\\login.js",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\assets\\build\\js\\login.js",
+              "RelativeToolTip": "assets\\build\\js\\login.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-06T22:07:25.893Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "m2.js",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\assets\\js\\m2.js",
+              "RelativeDocumentMoniker": "assets\\js\\m2.js",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\assets\\js\\m2.js",
+              "RelativeToolTip": "assets\\js\\m2.js",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwv4kAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-04T09:21:59.102Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAAAM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T00:44:03.681Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-07-29T10:26:58.555Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAYwE4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-11T01:07:10.344Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "recept.cshtml",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\Views\\Home\\recept.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\recept.cshtml",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\Views\\Home\\recept.cshtml",
+              "RelativeToolTip": "Views\\Home\\recept.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T11:12:28.348Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "visit.js",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\assets\\js\\visit.js",
+              "RelativeDocumentMoniker": "assets\\js\\visit.js",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\assets\\js\\visit.js",
+              "RelativeToolTip": "assets\\js\\visit.js",
+              "ViewState": "AgIAAH8BAAAAAADU/ykrwDIBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-09T16:55:43.751Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "res1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\res\\res1.Designer.cs",
+              "RelativeDocumentMoniker": "res\\res1.Designer.cs",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\res\\res1.Designer.cs",
+              "RelativeToolTip": "res\\res1.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAEgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T12:46:11.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "res1.resx",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\res\\res1.resx",
+              "RelativeDocumentMoniker": "res\\res1.resx",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\res\\res1.resx",
+              "RelativeToolTip": "res\\res1.resx",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAIAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-15T12:44:19.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "visit_type.js",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\assets\\bower_components\\bootstrap\\js\\visit_type.js",
+              "RelativeDocumentMoniker": "assets\\bower_components\\bootstrap\\js\\visit_type.js",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\assets\\bower_components\\bootstrap\\js\\visit_type.js",
+              "RelativeToolTip": "assets\\bower_components\\bootstrap\\js\\visit_type.js",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAwGkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-14T12:34:40.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "visit_type.cshtml",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\Views\\Home\\visit_type.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\visit_type.cshtml",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\Views\\Home\\visit_type.cshtml",
+              "RelativeToolTip": "Views\\Home\\visit_type.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-14T12:29:01.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ft.js",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\assets\\js\\ft.js",
+              "RelativeDocumentMoniker": "assets\\js\\ft.js",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\assets\\js\\ft.js",
+              "RelativeToolTip": "assets\\js\\ft.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-09T13:56:54.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ft.css",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\assets\\css\\ft.css",
+              "RelativeDocumentMoniker": "assets\\css\\ft.css",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\assets\\css\\ft.css",
+              "RelativeToolTip": "assets\\css\\ft.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-09T13:56:00.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "res1.resx",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\res\\res1.resx",
+              "RelativeDocumentMoniker": "res\\res1.resx",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\res\\res1.resx",
+              "RelativeToolTip": "res\\res1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-09T12:42:53.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "res1.resx",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\res\\res1.resx",
+              "RelativeDocumentMoniker": "res\\res1.resx",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\res\\res1.resx",
+              "RelativeToolTip": "res\\res1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-08-09T12:42:17.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\login\\login.cshtml",
+              "RelativeDocumentMoniker": "login\\login.cshtml",
+              "ToolTip": "C:\\Users\\alireza\\Desktop\\clinik\\webapp\\hospital\\login\\login.cshtml",
+              "RelativeToolTip": "login\\login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-08T14:34:08.738Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
